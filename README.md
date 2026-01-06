@@ -37,4 +37,4 @@ Validation Accuracy: **83.2%**
 
 ---
 
-Made with 💙 by Sikka Milladia (https://www.kaggle.com/sikkamilladia)  
+Made by Sikka Milladia (https://www.kaggle.com/sikkamilladia)  
